@@ -101,9 +101,5 @@ PALET WARNA
 ![alt text](image-10.png)
 ![alt text](11.png)
 
-
-
-
-
 ## Bukti Hasil Akhir ##
 ![alt text](<Curriculum Vitae.gif>)
